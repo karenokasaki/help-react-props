@@ -2,7 +2,6 @@
 
 export function Tulio({nomeCompleto, turma}) {
 
-    console.log(turma) //props é um objeto
 
 
     //até aqui é javascript PURO
